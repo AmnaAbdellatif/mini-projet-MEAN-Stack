@@ -9,7 +9,7 @@ Utilisation de NodeJs comme backend:
         - /api/products/:id : pour retourner un produit par ID
 
 -----
-Utilisation de reactJs comme front-end :
+Utilisation de RactJs comme front-end :
  Création des  2 pages :
         - /products : pour afficher la liste des produits avec pagination (productName,category,price,imageUrl,review avg)
         - /products/:id : pour afficher un produit par ID (productName,description,price,imageUrl,all review)
