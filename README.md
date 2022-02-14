@@ -7,6 +7,7 @@ Utilisation de NodeJs comme backend:
     - Exposition des produits avec 2 endpoints :
         - /api/products/ : pour retourner la liste des produits paginée par lot de 20.
         - /api/products/:id : pour retourner un produit par ID
+
 -----
 Utilisation de reactJs comme front-end :
  Création des  2 pages :
